@@ -18,12 +18,12 @@ h1
 {
     font-family: eggfont;
     text-align: center;
-    font-size: 42pt;
+    font-size: 30pt;
     margin: 15px;
 }
 nav
 {
-    border: 1px rgb(200, 200, 200) solid;
+    border: 2px rgb(200, 200, 200) solid;
     text-align: center;
     width: 92vh;
     margin: auto;
@@ -36,7 +36,7 @@ nav ul
 nav ul li
 {
     font-family: womanholiday;
-    font-size: 16pt;
+    font-size: 12pt;
     margin: 0px;
 }
 a
