@@ -7,12 +7,12 @@
 @font-face
 {
     font-family: eggfont;
-    src: url("Handmade/Grinchese.otf")
+    src: url("fonts/grinchese.otf")
 }
 @font-face
 {
     font-family: womanholiday;
-    src: url("Woman/Holiday.otf")
+    src: url("fonts/womanholiday.otf")
 }
 h1
 {
