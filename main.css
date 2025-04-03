@@ -1,29 +1,28 @@
 
 body {
-    background-color: #f0f0f0; /* Light gray background for all pages */
+    background-color: #f0f0f0;
     margin: 0;
     padding: 0;
 }
 img {
-    width: 100%; /* Make images responsive */
-    max-width: 600px; /* Limit max width */
-    border-radius: 10px; /* Rounded corners for all images */
-    opacity: 0.9; /* Slight transparency */
-    filter: grayscale(50%); /* Apply a subtle grayscale filter */
-}
+    width: 100%; 
+    max-width: 600px;
+    border-radius: 10px;
+    opacity: 0.9; 
+    filter: grayscale(50%)
 
 h1 {
-    color: #3498db; /* Custom color (blue) using hex */
-    font-size: 3rem; /* Large font size */
-    font-weight: bold; /* Bold text */
-    text-decoration: underline; /* Underline the text */
-    text-align: center; /* Center the heading */
-    margin-top: 20px; /* Space above the heading */
+    color: #3498db; 
+    font-size: 3rem;
+    font-weight: bold;
+    text-decoration: underline; 
+    text-align: center; 
+    margin-top: 20px;
 }
 
 p {
     font-size: 1.1rem;
     line-height: 1.6;
-    color: #333; /* Dark gray text color */
+    color: #333; 
     margin: 20px 0;
 }
