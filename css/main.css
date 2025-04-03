@@ -8,11 +8,11 @@ img {
    width: 100%
     max-width: 300px;
     border-radius: 10px; 
-    filter: grayscale(50%);
+    filter: grayscale(10%);
 }
 
 h1 {
-    color: #fa77d3; 
+    color: #280452; 
     font-size: 3rem; 
     font-weight: bold; 
     text-decoration: underline;
