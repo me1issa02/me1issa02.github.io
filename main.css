@@ -1,32 +1,29 @@
-:root
-{
-    --uncblue: RGB(1,45,91);
-    --uncgold: RGB(254,189,54);
-    --uncgray: RGB(235,235,235);
-    color: var(--uncblue);
-    background-color:var(--uncgray);
-    text-align: center;
+
+body {
+    background-color: #f0f0f0; /* Light gray background for all pages */
+    margin: 0;
+    padding: 0;
+}
+img {
+    width: 100%; /* Make images responsive */
+    max-width: 600px; /* Limit max width */
+    border-radius: 10px; /* Rounded corners for all images */
+    opacity: 0.9; /* Slight transparency */
+    filter: grayscale(50%); /* Apply a subtle grayscale filter */
 }
 
-.title
-{
-    color: var(--uncgold);
+h1 {
+    color: #3498db; /* Custom color (blue) using hex */
+    font-size: 3rem; /* Large font size */
+    font-weight: bold; /* Bold text */
+    text-decoration: underline; /* Underline the text */
+    text-align: center; /* Center the heading */
+    margin-top: 20px; /* Space above the heading */
 }
 
-h1
-{
-    font-size: 48pt;
-    text-decoration: underline;
-    color: gold;
-}
-
-img
-{
-    margin: auto;
-    display: block;
-}
-
-table
-{
-    margin: auto;
+p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #333; /* Dark gray text color */
+    margin: 20px 0;
 }
