@@ -64,7 +64,7 @@ body {
     gap: 2rem;
     flex-wrap: wrap;
   }
-  #contactinfo img {
+img {
     width: 140px;
     height: 140px;
     border-radius: 50%;
