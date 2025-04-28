@@ -6,10 +6,10 @@ body {
 }
 img {
    width: 100%
-    max-width: 300px;
-    border-radius: 10px; 
     filter: grayscale(10%);
-}
+    margin: auto;
+    display: block;
+    }
 
 h1 {
     color: #280452; 
