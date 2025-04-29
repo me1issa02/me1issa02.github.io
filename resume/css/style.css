@@ -64,7 +64,7 @@ body {
     gap: 2rem;
     flex-wrap: wrap;
   }
-img {
+  .profile-pic {
     width: 140px;
     height: 140px;
     border-radius: 50%;
