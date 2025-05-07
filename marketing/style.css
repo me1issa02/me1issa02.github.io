@@ -68,11 +68,14 @@ footer {
 }
 .feature-img {
   width: 100%;
-  max-width: 800px;
+  max-width: 100%;
+  height: auto;
   display: block;
   margin: 1em auto;
   border-radius: 10px;
+  box-sizing: border-box;
 }
+
 
 .product-img {
   width: 100%;
