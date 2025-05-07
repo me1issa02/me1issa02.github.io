@@ -66,4 +66,20 @@ footer {
     flex-direction: column;
   }
 }
+.feature-img {
+  width: 100%;
+  max-width: 800px;
+  display: block;
+  margin: 1em auto;
+  border-radius: 10px;
+}
+
+.product-img {
+  width: 100%;
+  max-width: 500px;
+  display: block;
+  margin: 1em auto;
+  border-radius: 8px;
+}
+
 
